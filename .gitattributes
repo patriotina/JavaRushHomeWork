@@ -1,2 +1,7 @@
-* text eol=lf
+* text=auto
+*.iml text eol=lf
+*.xml text eol=lf
+*.png binary
+*.jpg binary
+
 
